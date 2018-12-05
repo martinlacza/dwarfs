@@ -1,6 +1,7 @@
 /*
 						No Country for Old dwarves.
 */
+skuska na cviku
 #pragma comment(lib, "-lwinmm.lib")		//linker na lwinmm aby isla hudba
 #include <stdio.h>
 #include <string.h>			//potrebujem na pracu so stringami na intro a outro
